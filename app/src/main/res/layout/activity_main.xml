@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="Aplicativo Escolar"
-        android:textColor="#000"
+        android:textColor="#000000"
         android:textSize="25dp"
         android:layout_margin="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
